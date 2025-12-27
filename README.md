@@ -1,7 +1,7 @@
 # CBAA – Corvette Foundry
 
 Unofficial public archive of custom-built **No Man’s Sky corvettes**  
-designed and released by **Crimson Bureau of Advanced Architecture (CBAA)**.
+designed and released by **Crimson Bureau of Applied Atrocity (CBAA)**.
 
 This repository exists as a **controlled data leak** and experimental archive.
 Use it responsibly.
