@@ -9,7 +9,8 @@ Status: Released
 Spectre is a stealth-oriented corvette commissioned for high-risk reconnaissance and precision strike operations.
 
 ## Included Files
-- Spectre_CBAA_Build22.json
+- Spectre GOF2HD - Construction Data.json
+- Spectre GOF2HD - ship data.json
 
 ## Import Instructions
 1. Backup your save.
