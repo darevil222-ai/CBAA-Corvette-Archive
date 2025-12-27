@@ -1,0 +1,4 @@
+- You may import and fly these ships.
+- You may not remove CBAA markings.
+- You may not reupload as your own work.
+- You may showcase screenshots with credit.
