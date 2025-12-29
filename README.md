@@ -46,7 +46,7 @@ Released builds are organized chronologically and identified by **Build Number**
 
 All released ships are:
 - S-class
-- 120 inventory slots
+- ~120 inventory slots
 - fully unlocked Tech slots
 - 4 supercharged slots
 
@@ -64,7 +64,7 @@ General process:
 
 1. Backup your save (**mandatory**).
 2. Use a compatible *No Man’s Sky* save editor.
-3. Import the provided `.json` files.
+3. Import the provided `.json` files - with instructions in the build README
 4. Verify ship ownership and slot assignment.
 
 Exact behavior depends on:
