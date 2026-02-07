@@ -1,4 +1,4 @@
-# Build 22 – SPECTRE
+#22 – SPECTRE
 
 Manufacturer: Crimson Bureau of Advanced Architecture (CBAA)  
 Class: Corvette  
