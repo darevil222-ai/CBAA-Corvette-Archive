@@ -1,0 +1,1531 @@
+{
+  "Name": "Shinku No Sashi Kizu",
+  "Resource": {
+    "Filename": "MODELS/COMMON/SPACECRAFT/BIGGS/BIGGS.SCENE.MBIN",
+    "Seed": [
+      true,
+      "0x68F52A09"
+    ],
+    "ProceduralTexture": {
+      "Samplers": []
+    },
+    "AltId": ""
+  },
+  "Inventory": {
+    "Slots": [
+      {
+        "Type": {
+          "InventoryType": "Substance"
+        },
+        "Id": "^ROCKETSUB",
+        "Amount": 335,
+        "MaxAmount": 9999,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Substance"
+        },
+        "Id": "^ASTEROID1",
+        "Amount": 104,
+        "MaxAmount": 9999,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 1,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Substance"
+        },
+        "Id": "^ASTEROID2",
+        "Amount": 74,
+        "MaxAmount": 9999,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 2,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Product"
+        },
+        "Id": "^GEODE_ASTEROID",
+        "Amount": 2,
+        "MaxAmount": 50,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 3,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Product"
+        },
+        "Id": "^POI_LOCATOR",
+        "Amount": 1,
+        "MaxAmount": 50,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 4,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Substance"
+        },
+        "Id": "^ASTEROID3",
+        "Amount": 54,
+        "MaxAmount": 9999,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 5,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Product"
+        },
+        "Id": "^GEODE_SPACE",
+        "Amount": 4,
+        "MaxAmount": 50,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 6,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Product"
+        },
+        "Id": "^B_SHL_D",
+        "Amount": 50,
+        "MaxAmount": 50,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 7,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Product"
+        },
+        "Id": "^B_SHL_D",
+        "Amount": 50,
+        "MaxAmount": 50,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 8,
+          "Y": 0
+        }
+      }
+    ],
+    "ValidSlotIndices": [
+      {
+        "X": 0,
+        "Y": 0
+      },
+      {
+        "X": 1,
+        "Y": 0
+      },
+      {
+        "X": 2,
+        "Y": 0
+      },
+      {
+        "X": 3,
+        "Y": 0
+      },
+      {
+        "X": 4,
+        "Y": 0
+      },
+      {
+        "X": 5,
+        "Y": 0
+      },
+      {
+        "X": 6,
+        "Y": 0
+      },
+      {
+        "X": 7,
+        "Y": 0
+      },
+      {
+        "X": 8,
+        "Y": 0
+      },
+      {
+        "X": 9,
+        "Y": 0
+      },
+      {
+        "X": 0,
+        "Y": 1
+      },
+      {
+        "X": 1,
+        "Y": 1
+      },
+      {
+        "X": 2,
+        "Y": 1
+      },
+      {
+        "X": 3,
+        "Y": 1
+      },
+      {
+        "X": 4,
+        "Y": 1
+      },
+      {
+        "X": 5,
+        "Y": 1
+      },
+      {
+        "X": 6,
+        "Y": 1
+      },
+      {
+        "X": 7,
+        "Y": 1
+      },
+      {
+        "X": 8,
+        "Y": 1
+      },
+      {
+        "X": 9,
+        "Y": 1
+      },
+      {
+        "X": 0,
+        "Y": 2
+      },
+      {
+        "X": 1,
+        "Y": 2
+      },
+      {
+        "X": 2,
+        "Y": 2
+      },
+      {
+        "X": 3,
+        "Y": 2
+      },
+      {
+        "X": 4,
+        "Y": 2
+      },
+      {
+        "X": 5,
+        "Y": 2
+      },
+      {
+        "X": 6,
+        "Y": 2
+      },
+      {
+        "X": 7,
+        "Y": 2
+      },
+      {
+        "X": 8,
+        "Y": 2
+      },
+      {
+        "X": 9,
+        "Y": 2
+      },
+      {
+        "X": 0,
+        "Y": 3
+      },
+      {
+        "X": 1,
+        "Y": 3
+      },
+      {
+        "X": 2,
+        "Y": 3
+      },
+      {
+        "X": 3,
+        "Y": 3
+      },
+      {
+        "X": 4,
+        "Y": 3
+      },
+      {
+        "X": 5,
+        "Y": 3
+      },
+      {
+        "X": 6,
+        "Y": 3
+      },
+      {
+        "X": 7,
+        "Y": 3
+      },
+      {
+        "X": 8,
+        "Y": 3
+      },
+      {
+        "X": 9,
+        "Y": 3
+      },
+      {
+        "X": 0,
+        "Y": 4
+      },
+      {
+        "X": 1,
+        "Y": 4
+      },
+      {
+        "X": 2,
+        "Y": 4
+      },
+      {
+        "X": 3,
+        "Y": 4
+      },
+      {
+        "X": 4,
+        "Y": 4
+      },
+      {
+        "X": 5,
+        "Y": 4
+      },
+      {
+        "X": 6,
+        "Y": 4
+      },
+      {
+        "X": 7,
+        "Y": 4
+      },
+      {
+        "X": 8,
+        "Y": 4
+      },
+      {
+        "X": 9,
+        "Y": 4
+      },
+      {
+        "X": 0,
+        "Y": 5
+      },
+      {
+        "X": 1,
+        "Y": 5
+      },
+      {
+        "X": 2,
+        "Y": 5
+      },
+      {
+        "X": 3,
+        "Y": 5
+      },
+      {
+        "X": 4,
+        "Y": 5
+      },
+      {
+        "X": 5,
+        "Y": 5
+      },
+      {
+        "X": 6,
+        "Y": 5
+      },
+      {
+        "X": 7,
+        "Y": 5
+      },
+      {
+        "X": 8,
+        "Y": 5
+      },
+      {
+        "X": 9,
+        "Y": 5
+      },
+      {
+        "X": 0,
+        "Y": 6
+      },
+      {
+        "X": 1,
+        "Y": 6
+      },
+      {
+        "X": 2,
+        "Y": 6
+      },
+      {
+        "X": 3,
+        "Y": 6
+      },
+      {
+        "X": 4,
+        "Y": 6
+      },
+      {
+        "X": 5,
+        "Y": 6
+      },
+      {
+        "X": 6,
+        "Y": 6
+      },
+      {
+        "X": 7,
+        "Y": 6
+      },
+      {
+        "X": 8,
+        "Y": 6
+      },
+      {
+        "X": 9,
+        "Y": 6
+      },
+      {
+        "X": 0,
+        "Y": 7
+      },
+      {
+        "X": 1,
+        "Y": 7
+      },
+      {
+        "X": 2,
+        "Y": 7
+      },
+      {
+        "X": 3,
+        "Y": 7
+      },
+      {
+        "X": 4,
+        "Y": 7
+      },
+      {
+        "X": 5,
+        "Y": 7
+      },
+      {
+        "X": 6,
+        "Y": 7
+      },
+      {
+        "X": 7,
+        "Y": 7
+      },
+      {
+        "X": 8,
+        "Y": 7
+      },
+      {
+        "X": 9,
+        "Y": 7
+      },
+      {
+        "X": 0,
+        "Y": 8
+      },
+      {
+        "X": 1,
+        "Y": 8
+      },
+      {
+        "X": 2,
+        "Y": 8
+      },
+      {
+        "X": 3,
+        "Y": 8
+      },
+      {
+        "X": 4,
+        "Y": 8
+      },
+      {
+        "X": 5,
+        "Y": 8
+      },
+      {
+        "X": 6,
+        "Y": 8
+      },
+      {
+        "X": 7,
+        "Y": 8
+      },
+      {
+        "X": 8,
+        "Y": 8
+      },
+      {
+        "X": 9,
+        "Y": 8
+      },
+      {
+        "X": 0,
+        "Y": 9
+      },
+      {
+        "X": 1,
+        "Y": 9
+      },
+      {
+        "X": 2,
+        "Y": 9
+      },
+      {
+        "X": 3,
+        "Y": 9
+      },
+      {
+        "X": 4,
+        "Y": 9
+      },
+      {
+        "X": 5,
+        "Y": 9
+      },
+      {
+        "X": 6,
+        "Y": 9
+      },
+      {
+        "X": 7,
+        "Y": 9
+      },
+      {
+        "X": 8,
+        "Y": 9
+      },
+      {
+        "X": 9,
+        "Y": 9
+      },
+      {
+        "X": 0,
+        "Y": 10
+      },
+      {
+        "X": 1,
+        "Y": 10
+      },
+      {
+        "X": 2,
+        "Y": 10
+      },
+      {
+        "X": 3,
+        "Y": 10
+      },
+      {
+        "X": 4,
+        "Y": 10
+      },
+      {
+        "X": 5,
+        "Y": 10
+      },
+      {
+        "X": 6,
+        "Y": 10
+      },
+      {
+        "X": 7,
+        "Y": 10
+      },
+      {
+        "X": 8,
+        "Y": 10
+      },
+      {
+        "X": 9,
+        "Y": 10
+      },
+      {
+        "X": 0,
+        "Y": 11
+      },
+      {
+        "X": 1,
+        "Y": 11
+      },
+      {
+        "X": 2,
+        "Y": 11
+      },
+      {
+        "X": 3,
+        "Y": 11
+      },
+      {
+        "X": 4,
+        "Y": 11
+      },
+      {
+        "X": 5,
+        "Y": 11
+      },
+      {
+        "X": 6,
+        "Y": 11
+      },
+      {
+        "X": 7,
+        "Y": 11
+      },
+      {
+        "X": 8,
+        "Y": 11
+      },
+      {
+        "X": 9,
+        "Y": 11
+      }
+    ],
+    "Class": {
+      "InventoryClass": "S"
+    },
+    "StackSizeGroup": {
+      "InventoryStackSizeGroup": "Ship"
+    },
+    "BaseStatValues": [
+      {
+        "BaseStatID": "^SHIP_DAMAGE",
+        "Value": 15.490975379943848
+      },
+      {
+        "BaseStatID": "^SHIP_SHIELD",
+        "Value": 97.05435943603516
+      },
+      {
+        "BaseStatID": "^SHIP_HYPERDRIVE",
+        "Value": 52.10894012451172
+      },
+      {
+        "BaseStatID": "^SHIP_AGILE",
+        "Value": 11.952096939086914
+      }
+    ],
+    "SpecialSlots": [],
+    "Width": 10,
+    "Height": 12,
+    "IsCool": false,
+    "Name": "",
+    "Version": 1,
+    "NumSlotsFromTech": 9
+  },
+  "Inventory_Cargo": {
+    "Slots": [],
+    "ValidSlotIndices": [],
+    "Class": {
+      "InventoryClass": "S"
+    },
+    "StackSizeGroup": {
+      "InventoryStackSizeGroup": "ShipCargo"
+    },
+    "BaseStatValues": [
+      {
+        "BaseStatID": "^SHIP_DAMAGE",
+        "Value": 15.490975379943848
+      },
+      {
+        "BaseStatID": "^SHIP_SHIELD",
+        "Value": 97.05435943603516
+      },
+      {
+        "BaseStatID": "^SHIP_HYPERDRIVE",
+        "Value": 52.10894012451172
+      },
+      {
+        "BaseStatID": "^SHIP_AGILE",
+        "Value": 11.952096939086914
+      }
+    ],
+    "SpecialSlots": [],
+    "Width": 8,
+    "Height": 5,
+    "IsCool": false,
+    "Name": "",
+    "Version": 1,
+    "NumSlotsFromTech": 0
+  },
+  "Inventory_TechOnly": {
+    "Slots": [
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^LAUNCHER",
+        "Amount": 200,
+        "MaxAmount": 200,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 9,
+          "Y": 2
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^SHIPSHIELD",
+        "Amount": 200,
+        "MaxAmount": 200,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^SHIPJUMP1",
+        "Amount": 200,
+        "MaxAmount": 200,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 5,
+          "Y": 1
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^HYPERDRIVE",
+        "Amount": 120,
+        "MaxAmount": 120,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 4,
+          "Y": 5
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UT_SHIPSHIELD",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 1,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UT_SHIPBLOB",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 2,
+          "Y": 4
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UT_SHIPDRIFT",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 4,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UT_PULSEFUEL",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 4,
+          "Y": 1
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UT_PULSESPEED",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 4,
+          "Y": 2
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UT_QUICKWARP",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 3,
+          "Y": 4
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^HDRIVEBOOST3",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 4,
+          "Y": 4
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^HDRIVEBOOST1",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 5,
+          "Y": 4
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^SHIPSCAN_COMBAT",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 0,
+          "Y": 4
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^SHIPSCAN_ECON",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 1,
+          "Y": 4
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^SHIP_TELEPORT",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 0,
+          "Y": 3
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UT_LAUNCHER",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 9,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UT_SHIPGUN",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 7,
+          "Y": 4
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UT_LAUNCHCHARGE",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 9,
+          "Y": 4
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^WATER_LANDER",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 8,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UP_LAUN4#08081",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 8,
+          "Y": 1
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UP_SGUN4#24028",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 7,
+          "Y": 2
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UP_SGUN4#37225",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 7,
+          "Y": 5
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UP_SBLOB4#10067",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 1,
+          "Y": 3
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UP_HYP3#82845",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 3,
+          "Y": 3
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UP_S_SHL3#21682",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 1,
+          "Y": 1
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UP_S_SHL3#20610",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 0,
+          "Y": 2
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UP_S_SHL2#59617",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 1,
+          "Y": 2
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^UT_ROCKETS",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 3,
+          "Y": 1
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^SHIPROCKETS",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 3,
+          "Y": 2
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^HDRIVEBOOST4",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 3,
+          "Y": 5
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^HDRIVEBOOST2",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 5,
+          "Y": 5
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^CARGOSHIELD",
+        "Amount": 100,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": false,
+        "Index": {
+          "X": 0,
+          "Y": 5
+        }
+      },
+      {
+        "Type": {
+          "InventoryType": "Technology"
+        },
+        "Id": "^SHIPGUN1",
+        "Amount": 1,
+        "MaxAmount": 100,
+        "DamageFactor": 0.0,
+        "FullyInstalled": true,
+        "AddedAutomatically": true,
+        "Index": {
+          "X": 8,
+          "Y": 2
+        }
+      }
+    ],
+    "ValidSlotIndices": [
+      {
+        "X": 0,
+        "Y": 0
+      },
+      {
+        "X": 1,
+        "Y": 0
+      },
+      {
+        "X": 2,
+        "Y": 0
+      },
+      {
+        "X": 3,
+        "Y": 0
+      },
+      {
+        "X": 4,
+        "Y": 0
+      },
+      {
+        "X": 5,
+        "Y": 0
+      },
+      {
+        "X": 6,
+        "Y": 0
+      },
+      {
+        "X": 7,
+        "Y": 0
+      },
+      {
+        "X": 8,
+        "Y": 0
+      },
+      {
+        "X": 9,
+        "Y": 0
+      },
+      {
+        "X": 0,
+        "Y": 1
+      },
+      {
+        "X": 1,
+        "Y": 1
+      },
+      {
+        "X": 2,
+        "Y": 1
+      },
+      {
+        "X": 3,
+        "Y": 1
+      },
+      {
+        "X": 4,
+        "Y": 1
+      },
+      {
+        "X": 5,
+        "Y": 1
+      },
+      {
+        "X": 6,
+        "Y": 1
+      },
+      {
+        "X": 7,
+        "Y": 1
+      },
+      {
+        "X": 8,
+        "Y": 1
+      },
+      {
+        "X": 9,
+        "Y": 1
+      },
+      {
+        "X": 0,
+        "Y": 2
+      },
+      {
+        "X": 1,
+        "Y": 2
+      },
+      {
+        "X": 2,
+        "Y": 2
+      },
+      {
+        "X": 3,
+        "Y": 2
+      },
+      {
+        "X": 4,
+        "Y": 2
+      },
+      {
+        "X": 5,
+        "Y": 2
+      },
+      {
+        "X": 6,
+        "Y": 2
+      },
+      {
+        "X": 7,
+        "Y": 2
+      },
+      {
+        "X": 8,
+        "Y": 2
+      },
+      {
+        "X": 9,
+        "Y": 2
+      },
+      {
+        "X": 0,
+        "Y": 3
+      },
+      {
+        "X": 1,
+        "Y": 3
+      },
+      {
+        "X": 2,
+        "Y": 3
+      },
+      {
+        "X": 3,
+        "Y": 3
+      },
+      {
+        "X": 4,
+        "Y": 3
+      },
+      {
+        "X": 5,
+        "Y": 3
+      },
+      {
+        "X": 6,
+        "Y": 3
+      },
+      {
+        "X": 7,
+        "Y": 3
+      },
+      {
+        "X": 8,
+        "Y": 3
+      },
+      {
+        "X": 9,
+        "Y": 3
+      },
+      {
+        "X": 0,
+        "Y": 4
+      },
+      {
+        "X": 1,
+        "Y": 4
+      },
+      {
+        "X": 2,
+        "Y": 4
+      },
+      {
+        "X": 3,
+        "Y": 4
+      },
+      {
+        "X": 4,
+        "Y": 4
+      },
+      {
+        "X": 5,
+        "Y": 4
+      },
+      {
+        "X": 6,
+        "Y": 4
+      },
+      {
+        "X": 7,
+        "Y": 4
+      },
+      {
+        "X": 8,
+        "Y": 4
+      },
+      {
+        "X": 9,
+        "Y": 4
+      },
+      {
+        "X": 0,
+        "Y": 5
+      },
+      {
+        "X": 1,
+        "Y": 5
+      },
+      {
+        "X": 2,
+        "Y": 5
+      },
+      {
+        "X": 3,
+        "Y": 5
+      },
+      {
+        "X": 4,
+        "Y": 5
+      },
+      {
+        "X": 5,
+        "Y": 5
+      },
+      {
+        "X": 6,
+        "Y": 5
+      },
+      {
+        "X": 7,
+        "Y": 5
+      },
+      {
+        "X": 8,
+        "Y": 5
+      },
+      {
+        "X": 9,
+        "Y": 5
+      }
+    ],
+    "Class": {
+      "InventoryClass": "S"
+    },
+    "StackSizeGroup": {
+      "InventoryStackSizeGroup": "Default"
+    },
+    "BaseStatValues": [
+      {
+        "BaseStatID": "^SHIP_DAMAGE",
+        "Value": 15.490975379943848
+      },
+      {
+        "BaseStatID": "^SHIP_SHIELD",
+        "Value": 97.05435943603516
+      },
+      {
+        "BaseStatID": "^SHIP_HYPERDRIVE",
+        "Value": 52.10894012451172
+      },
+      {
+        "BaseStatID": "^SHIP_AGILE",
+        "Value": 11.952096939086914
+      }
+    ],
+    "SpecialSlots": [
+      {
+        "Type": {
+          "InventorySpecialSlotType": "TechBonus"
+        },
+        "Index": {
+          "X": 0,
+          "Y": 0
+        }
+      },
+      {
+        "Type": {
+          "InventorySpecialSlotType": "TechBonus"
+        },
+        "Index": {
+          "X": 5,
+          "Y": 1
+        }
+      },
+      {
+        "Type": {
+          "InventorySpecialSlotType": "TechBonus"
+        },
+        "Index": {
+          "X": 8,
+          "Y": 2
+        }
+      },
+      {
+        "Type": {
+          "InventorySpecialSlotType": "TechBonus"
+        },
+        "Index": {
+          "X": 2,
+          "Y": 2
+        }
+      }
+    ],
+    "Width": 10,
+    "Height": 6,
+    "IsCool": false,
+    "Name": "",
+    "Version": 1,
+    "NumSlotsFromTech": 0
+  },
+  "InventoryLayout": {
+    "Slots": 10,
+    "Seed": [
+      true,
+      "0x1"
+    ],
+    "Level": 1
+  },
+  "Location": 0,
+  "Position": [
+    0.0,
+    0.0,
+    0.0,
+    -1.0
+  ],
+  "Direction": [
+    0.0,
+    0.0,
+    0.0,
+    -1.0
+  ]
+}
